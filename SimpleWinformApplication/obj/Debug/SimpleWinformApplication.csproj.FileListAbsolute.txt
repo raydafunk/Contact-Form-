@@ -1,0 +1,9 @@
+C:\Users\Ray\Documents\Visual Studio 2017\Projects\SimpleWinformApplication\SimpleWinformApplication\bin\Debug\SimpleWinformApplication.exe.config
+C:\Users\Ray\Documents\Visual Studio 2017\Projects\SimpleWinformApplication\SimpleWinformApplication\bin\Debug\SimpleWinformApplication.exe
+C:\Users\Ray\Documents\Visual Studio 2017\Projects\SimpleWinformApplication\SimpleWinformApplication\bin\Debug\SimpleWinformApplication.pdb
+C:\Users\Ray\Documents\Visual Studio 2017\Projects\SimpleWinformApplication\SimpleWinformApplication\obj\Debug\SimpleWinformApplication.Form1.resources
+C:\Users\Ray\Documents\Visual Studio 2017\Projects\SimpleWinformApplication\SimpleWinformApplication\obj\Debug\SimpleWinformApplication.Properties.Resources.resources
+C:\Users\Ray\Documents\Visual Studio 2017\Projects\SimpleWinformApplication\SimpleWinformApplication\obj\Debug\SimpleWinformApplication.csproj.GenerateResource.Cache
+C:\Users\Ray\Documents\Visual Studio 2017\Projects\SimpleWinformApplication\SimpleWinformApplication\obj\Debug\SimpleWinformApplication.csproj.CoreCompileInputs.cache
+C:\Users\Ray\Documents\Visual Studio 2017\Projects\SimpleWinformApplication\SimpleWinformApplication\obj\Debug\SimpleWinformApplication.exe
+C:\Users\Ray\Documents\Visual Studio 2017\Projects\SimpleWinformApplication\SimpleWinformApplication\obj\Debug\SimpleWinformApplication.pdb
